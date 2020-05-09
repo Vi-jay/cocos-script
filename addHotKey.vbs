@@ -1,0 +1,1 @@
+CreateObject("WScript.Shell").Run "cmd /c C:\Users\Administrator\Desktop\cocos-script\ListenSave.bat",0
